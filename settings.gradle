@@ -1,0 +1,2 @@
+rootProject.name = "ProTask"
+include ':app'

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProTask</string>
+    <string name="txt_code">Code</string>
+    <string name="txt_find">Find</string>
+    <string name="txt_fetch_data">Fetch Data</string>
+    <string name="click_fetch_to_retive_data">Click Fetch to retrieve data</string>
+    <string name="txt_holder_name">holder Name</string>
+    <string name="txt_number">Number</string>
+    <string name="txt_verification_code">Verification Code</string>
+    <string name="txt_expiry_month">Expiry Month</string>
+    <string name="txt_expiry_year">Expiry Year</string>
+</resources>
